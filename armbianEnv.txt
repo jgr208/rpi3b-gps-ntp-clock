@@ -1,0 +1,4 @@
+verbosity=1
+console=both
+overlays=pps-gpio
+param_pps_gpio_pin=4

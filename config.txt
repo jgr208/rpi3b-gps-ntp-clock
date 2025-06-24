@@ -1,0 +1,3 @@
+# Enable UART and PPS for Adafruit GPS HAT
+enable_uart=1
+dtoverlay=pps-gpio,gpiopin=4
